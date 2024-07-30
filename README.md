@@ -1,6 +1,6 @@
 # Horizontal-Scroll
 
- [Demo Link]()
+ [Demo Link](https://nikmahla.github.io/Horizontal-Scroll/)
 
  Horizontal Scroll🔥
 
